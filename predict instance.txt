@@ -1,0 +1,34 @@
+{
+  "instances": [
+    {
+      "Age": "42.0",
+      "Amphet": "0",
+      "AnyOpioid": "0",
+      "Benzodiazepine": "0",
+      "Cocaine": "0",
+      "Ethanol": "1",
+      "Fentanyl": "0",
+      "Fentanyl_Analogue": "0.0",
+      "Heroin": "1",
+      "Hydrocodone": "0",
+      "Methadone": "0",
+      "Oxycodone": "0",
+      "Oxymorphone": "0",
+      "Race_Asian_Indian": "0",
+      "Race_Asian_Other": "0",
+      "Race_Black": "0",
+      "Race_Chinese": "0",
+      "Race_Hawaiian": "0",
+      "Race_Hispanic_Black": "0",
+      "Race_Hispanic_White": "0",
+      "Race_Native_American_Other": "0",
+      "Race_Other": "0",
+      "Race_Unknown": "0",
+      "Race_White": "1",
+      "Sex_Female": "0",
+      "Sex_Male": "1",
+      "Sex_Unknown": "0",
+      "Tramad": "0"
+    }
+  ]
+}
