@@ -1,8 +1,8 @@
-##AI_drug mortality
+## AI_drug mortality
 
 Our model was developed using vertex ai.
 
-##vertex ai
+## vertex ai
 
 drug_deaths_final_with_risk_age_sex_race.csv
 
@@ -21,7 +21,7 @@ Create Model Registry
 
 Deploy&Test
 
-##Reference
+## Reference
 
 Dataset
 
