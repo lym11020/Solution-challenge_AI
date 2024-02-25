@@ -6,21 +6,19 @@ Our model was developed using vertex ai, google ai studio.
 
 drug_deaths_final_with_risk_age_sex_race.csv
 
+1. Access the Vertex AI console and ensure you're working within the appropriate region, specifically Asia-northeast3.
 
-go to console of vertex ai
+2. Create datasets within this region to be used for training and evaluation purposes. These datasets will serve as the foundation for developing your machine learning models.
 
-create datasets(region:asia-northeast3)
+3. Move forward with Model Development and Training by initiating the process to train a new model. This involves selecting the appropriate algorithm, specifying the training data, configuring hyperparameters, and initiating the training process.
 
-Model Development-Training
+4. Once the model has been successfully trained, proceed to register it within the Model Registry. This step involves documenting essential information about the model, including its version, metadata, and any associated artifacts.
 
-Train new model
+5. After registration, deploy the model to make it accessible for inference purposes. This deployment enables users to send input data to the model and receive predictions or classifications in return.
 
-Deploy And Use- Model Registry 
+6. As part of the deployment process, it's crucial to conduct thorough testing to ensure the model's performance meets expectations. Utilize the "predict instance.txt" file to simulate real-world scenarios and assess how the model handles various inputs.
 
-Create Model Registry
-
-Deploy&Test (using predict instance.txt)
-
+7. Monitor the deployed model's performance over time, making adjustments as necessary to maintain optimal accuracy and reliability.
 
 <pre>
 <code>
