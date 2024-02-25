@@ -1,6 +1,6 @@
 ### AI_drug mortality
 
-Our model was developed using vertex ai, google ai studio.
+A model predicting the risk of mortality was developed using Vertex AI, and a chatbot was created using Google AI Studio.
 
 ## Risk prediction(using [vertex ai](https://cloud.google.com/vertex-ai?hl=ko))
 
