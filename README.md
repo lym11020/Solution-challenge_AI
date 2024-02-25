@@ -30,7 +30,7 @@ drug_deaths_final_with_risk_age_sex_race.csv
   },
   body: JSON.stringify({
     instances: [
-      // 여기에 모델 입력 데이터 포맷에 맞춰 데이터를 추가
+      // Here, add data according to the model input data format
     ],
   }),
 })
