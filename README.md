@@ -17,6 +17,11 @@ Train new model
 
 Deploy And Use- Model Registry 
 
+Create Model Registry
+
+Deploy&Test (using predict instance.txt)
+
+
 <pre>
 <code>
   fetch('https://asia-northeast3-aiplatform.googleapis.com/v1/projects/50762632220/locations/asia-northeast3/endpoints/5218607640866717696:predict', {
@@ -37,9 +42,6 @@ Deploy And Use- Model Registry
 </code>
 </pre>
 
-Create Model Registry
-
-Deploy&Test (using predict instance.txt)
 
 ## Chatbot
 
