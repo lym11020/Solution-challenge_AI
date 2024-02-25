@@ -51,6 +51,8 @@ Safety settings
 
 ![image](https://github.com/lym11020/Solution-challenge_AI/assets/124680236/82aa13de-8a98-4459-be59-d50c66964400)
 
+Setting up the initial part & Entering information about the risks of drugs and specialized knowledge related to them."
+
 ![image](https://github.com/lym11020/Solution-challenge_AI/assets/124680236/66948032-a322-4502-9d2a-3ca7c7a797da)
 
 
