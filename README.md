@@ -2,7 +2,7 @@
 
 Our model was developed using vertex ai, google ai studio.
 
-## Risk prediction(using vertex ai)
+## Risk prediction(using [vertex ai](https://cloud.google.com/vertex-ai?hl=ko))
 
 drug_deaths_final_with_risk_age_sex_race.csv
 
@@ -45,7 +45,7 @@ Deploy&Test (using predict instance.txt)
 
 ## Chatbot
 
-google ai studio
+[google ai studio](https://ai.google.dev)
 
 model: Gemini 1.0 Pro
 
