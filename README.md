@@ -1,8 +1,8 @@
 ## AI_drug mortality
 
-Our model was developed using vertex ai.
+Our model was developed using vertex ai, google ai studio.
 
-## vertex ai
+## Risk prediction(using vertex ai)
 
 drug_deaths_final_with_risk_age_sex_race.csv
 
