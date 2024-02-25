@@ -15,11 +15,11 @@ Model Development-Training
 
 Train new model
 
-Deploy And Use- Model Registry
+Deploy And Use- Model Registry 
 
 Create Model Registry
 
-Deploy&Test
+Deploy&Test (using predict instance.txt)
 
 ## Chatbot
 
